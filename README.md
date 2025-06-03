@@ -10,7 +10,7 @@ The `.csv` file should be structured like this:
 | greeting.morning | Good morning! | Guten Morgen! | ...                |
 | greeting.evening | Good evening! | Guten Abend!  | ...                |
 
-The locale header (`en-US`, `de-DE`) dictate the names of the .axaml files.  
+The locale headers (`en-US`, `de-DE`) dictate the names of the .axaml files.  
 The generated `.axaml` output will look like this:
 
 en-US.axaml
